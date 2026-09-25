@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Protegemos los datos durante respaldos y transferencias -->
+<data-extraction-rules>
+
+    <!-- Configuracion de respaldos en la nube -->
+    <cloud-backup>
+        <exclude domain="sharedpref" path="." />
+        <exclude domain="file" path="." />
+        <exclude domain="database" path="." />
+    </cloud-backup>
+
+    <!-- Configuracion de transferencias entre dispositivos -->
+    <device-transfer>
+        <exclude domain="sharedpref" path="." />
+        <exclude domain="file" path="." />
+        <exclude domain="database" path="." />
+    </device-transfer>
+
+</data-extraction-rules>

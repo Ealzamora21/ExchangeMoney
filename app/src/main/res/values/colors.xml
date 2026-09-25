@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Colores básicos de Android -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color principal de Exchange Money -->
+    <color name="primary">#0797A5</color>
+
+    <!-- Color principal oscuro para mejorar el contraste -->
+    <color name="primary_dark">#007580</color>
+
+    <!-- Color claro para los elementos seleccionados -->
+    <color name="primary_light">#D5F0F2</color>
+
+    <!-- Color secundario de la aplicación -->
+    <color name="secondary">#007580</color>
+
+    <!-- Color de fondo de las pantallas -->
+    <color name="background">#F7F8FA</color>
+
+    <!-- Color de fondo de los componentes -->
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Color de los títulos y textos principales -->
+    <color name="text_primary">#263238</color>
+
+    <!-- Color de los textos secundarios -->
+    <color name="text_secondary">#68757A</color>
+
+    <!-- Color de los bordes -->
+    <color name="border">#DFE3E6</color>
+
+    <!-- Color utilizado para mostrar errores -->
+    <color name="error">#B3261E</color>
+
+</resources>

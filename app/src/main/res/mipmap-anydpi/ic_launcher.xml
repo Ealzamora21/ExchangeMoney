@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Icono compatible con versiones anteriores de Android -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fondo turquesa -->
+    <path
+        android:fillColor="#0797A5"
+        android:pathData="M54,0 A54,54 0,1 1,54,108 A54,54 0,1 1,54,0 Z" />
+
+    <!-- Flecha hacia la derecha -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,41H66V32L82,46L66,60V51H27Z" />
+
+    <!-- Flecha hacia la izquierda -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M81,58H42V49L26,63L42,77V68H81Z" />
+
+</vector>

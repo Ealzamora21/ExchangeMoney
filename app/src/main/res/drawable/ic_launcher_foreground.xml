@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Flechas que representan el intercambio de monedas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Flecha superior hacia la derecha -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,41H66V32L82,46L66,60V51H27Z" />
+
+    <!-- Flecha inferior hacia la izquierda -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M81,58H42V49L26,63L42,77V68H81Z" />
+
+</vector>

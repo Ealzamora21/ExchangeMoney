@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ExchangeMoney</string>
+
+    <!-- Textos de las pantallas -->
+    <string name="ui_activity_converter_text_1">⇄  Exchange Money</string>
+    <string name="ui_activity_converter_text_2">Conversor de moneda</string>
+    <string name="ui_activity_converter_text_3">Monto</string>
+    <string name="ui_activity_converter_hint_4">0.00</string>
+    <string name="ui_activity_converter_text_5">De</string>
+    <string name="ui_activity_converter_text_6">⇅ Intercambiar</string>
+    <string name="ui_activity_converter_text_7">A</string>
+    <string name="ui_activity_converter_text_8">Tipo de cambio</string>
+    <string name="ui_activity_converter_text_9">0.00</string>
+    <string name="ui_activity_converter_text_10">Convertir</string>
+    <string name="ui_activity_converter_text_11">Agita tu dispositivo para intercambiar monedas</string>
+    <string name="ui_activity_history_text_1">⇄  Exchange Money</string>
+    <string name="ui_activity_history_text_2">Historial</string>
+    <string name="ui_activity_history_text_3">Consulta tus conversiones realizadas</string>
+    <string name="ui_activity_history_text_4">Todavía no tienes conversiones guardadas.</string>
+    <string name="ui_activity_history_text_5">Borrar historial</string>
+    <string name="ui_activity_login_text_1">⇄  Exchange Money</string>
+    <string name="ui_activity_login_text_2">Qué gusto verte</string>
+    <string name="ui_activity_login_text_3">Inicia sesión para continuar con tus conversiones.</string>
+    <string name="ui_activity_login_text_4">Correo electrónico</string>
+    <string name="ui_activity_login_hint_5">nombre@correo.com</string>
+    <string name="ui_activity_login_text_6">Contraseña</string>
+    <string name="ui_activity_login_hint_7">••••••••</string>
+    <string name="ui_activity_login_text_8">¿Olvidaste tu contraseña?</string>
+    <string name="ui_activity_login_text_9">Iniciar sesión</string>
+    <string name="ui_activity_login_text_10">¿No tienes una cuenta?  Regístrate</string>
+    <string name="ui_activity_main_text_1">Hello World!</string>
+    <string name="ui_activity_profile_text_1">⇄  Exchange Money</string>
+    <string name="ui_activity_profile_text_2">Mi perfil</string>
+    <string name="ui_activity_profile_text_3">Consulta la información de tu cuenta.</string>
+    <string name="ui_activity_profile_contentdescription_4">Fotografía del perfil</string>
+    <string name="ui_activity_profile_text_5">Tomar foto</string>
+    <string name="ui_activity_profile_text_6">Nombre completo</string>
+    <string name="ui_activity_profile_text_7">Correo electrónico</string>
+    <string name="ui_activity_profile_text_8">Cerrar sesión</string>
+    <string name="ui_activity_register_text_1">⇄  Exchange Money</string>
+    <string name="ui_activity_register_text_2">Crea tu cuenta</string>
+    <string name="ui_activity_register_text_3">Empieza a convertir monedas en segundos.</string>
+    <string name="ui_activity_register_text_4">Nombre completo</string>
+    <string name="ui_activity_register_hint_5">Tu nombre</string>
+    <string name="ui_activity_register_text_6">Correo electrónico</string>
+    <string name="ui_activity_register_hint_7">nombre@correo.com</string>
+    <string name="ui_activity_register_text_8">Contraseña</string>
+    <string name="ui_activity_register_hint_9">••••••••</string>
+    <string name="ui_activity_register_text_10">Crear cuenta</string>
+    <string name="ui_activity_register_text_11">¿Ya tienes una cuenta?  Inicia sesión</string>
+    <string name="ui_bottom_navigation_menu_title_1">Conversor</string>
+    <string name="ui_bottom_navigation_menu_title_2">Historial</string>
+    <string name="ui_bottom_navigation_menu_title_3">Perfil</string>
+    <string name="exchange_rate_empty">Tipo de cambio: &#8212;</string>
+</resources>

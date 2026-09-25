@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Protegemos los datos locales del usuario -->
+<full-backup-content>
+
+    <!-- Excluimos las preferencias del usuario -->
+    <exclude domain="sharedpref" path="." />
+
+    <!-- Excluimos los archivos internos -->
+    <exclude domain="file" path="." />
+
+    <!-- Excluimos las bases de datos -->
+    <exclude domain="database" path="." />
+
+</full-backup-content>

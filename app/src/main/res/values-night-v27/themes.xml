@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Tema principal de Exchange Money -->
+    <style name="Base.Theme.ExchangeMoney"
+        parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Color principal de la aplicación -->
+        <item name="colorPrimary">@color/primary_dark</item>
+
+        <!-- Color del texto sobre el color principal -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Color de los componentes principales seleccionados -->
+        <item name="colorPrimaryContainer">@color/primary_light</item>
+
+        <!-- Color del texto sobre los componentes seleccionados -->
+        <item name="colorOnPrimaryContainer">@color/primary_dark</item>
+
+        <!-- Color secundario -->
+        <item name="colorSecondary">@color/secondary</item>
+
+        <!-- Color del texto sobre el color secundario -->
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Color del indicador de navegación seleccionado -->
+        <item name="colorSecondaryContainer">@color/primary_light</item>
+
+        <!-- Color del icono seleccionado -->
+        <item name="colorOnSecondaryContainer">@color/primary_dark</item>
+
+        <!-- Color de fondo de la aplicación -->
+        <item name="android:colorBackground">@color/background</item>
+
+        <!-- Color de fondo de los componentes -->
+        <item name="colorSurface">@color/surface</item>
+
+        <!-- Color de los textos sobre las superficies -->
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <!-- Color de los textos secundarios -->
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+
+        <!-- Color de los bordes -->
+        <item name="colorOutline">@color/border</item>
+
+        <!-- Color para los mensajes de error -->
+        <item name="colorError">@color/error</item>
+
+        <!-- Color de fondo de las ventanas -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Color de la barra superior -->
+        <item name="android:statusBarColor">@color/background</item>
+
+        <!-- Mostramos los iconos superiores en color oscuro -->
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Color de la barra inferior del dispositivo -->
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <!-- Mostramos los iconos inferiores en color oscuro -->
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <!-- Evitamos cambios automáticos a colores oscuros -->
+
+    </style>
+
+    <!-- Tema utilizado desde AndroidManifest.xml -->
+    <style name="Theme.ExchangeMoney"
+        parent="Base.Theme.ExchangeMoney" />
+
+</resources>
